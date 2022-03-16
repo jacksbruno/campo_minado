@@ -19,6 +19,7 @@ import Field from './src/components/Field'
           <Field mined />
           <Field mined opened />
           <Field mined opened exploded />
+          <Field flagged />
         </View>
       </SafeAreaView>
     )
